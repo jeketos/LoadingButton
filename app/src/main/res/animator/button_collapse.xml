@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <objectAnimator
+        android:duration="500"
+        android:propertyName="pathData"
+        android:interpolator="@android:anim/bounce_interpolator"
+        android:valueType="pathType"
+        android:valueFrom= "M60,55  a15,15 0,0 1,0 -30 M60,55 l0,-30 120,0 0,30 M180,55  a15,15 0,1 0,0 -30"
+        android:valueTo= "M60,55  a15,15 0,0 1,0 -30 M60,55 l0,-30 0,0 0,30 M60,55  a15,15 0,1 0,0 -30"
+        />
+</set>

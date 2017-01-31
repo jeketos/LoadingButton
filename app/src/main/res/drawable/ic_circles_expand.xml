@@ -1,0 +1,15 @@
+<vector android:height="80dp" android:viewportHeight="80.0"
+        android:viewportWidth="240.0" android:width="240dp" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <path
+            android:name="circles"
+            android:fillColor="#ff000000"
+            android:pathData=  "M60,55   a15,15 0,0 1,0 -30  M60,55  a15,15 0,1 0,0 -30
+                                M90,55   a15,15 0,0 1,0 -30  M90,55  a15,15 0,1 0,0 -30
+                                M120,55  a15,15 0,0 1,0 -30  M120,55 a15,15 0,1 0,0 -30
+                                M150,55  a15,15 0,0 1,0 -30  M150,55 a15,15 0,1 0,0 -30
+                                M180,55  a15,15 0,0 1,0 -30  M180,55 a15,15 0,1 0,0 -30"
+            />
+
+</vector>

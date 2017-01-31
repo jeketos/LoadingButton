@@ -1,0 +1,31 @@
+<vector android:height="80dp" android:viewportHeight="80.0"
+    android:viewportWidth="240.0" android:width="240dp" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <group android:name="animateImage">
+        <path
+            android:name="circle1"
+            android:fillColor="#ff000000"
+            android:pathData="M60,55  a15,15 0,0 1,0 -30 M60,55 l0,-30 120,0 0,30 M180,55  a15,15 0,1 0,0 -30,
+                              "/>
+        <path
+            android:name="circle2"
+            android:fillColor="#FF000000"
+            android:pathData="M60,55  a15,15 0,0 1,0 -30 M60,55 a15,15 0,1 0,0 -30"/>
+        <path
+            android:name="circle3"
+            android:fillColor="#FF000000"
+            android:pathData="M60,55  a15,15 0,0 1,0 -30 M60,55 a15,15 0,1 0,0 -30"/>
+        <path
+            android:name="circle4"
+            android:fillColor="#FF000000"
+            android:pathData="M60,55  a15,15 0,0 1,0 -30 M60,55 a15,15 0,1 0,0 -30"/>
+        <path
+            android:name="circle5"
+            android:fillColor="#FF000000"
+            android:pathData="M60,55  a15,15 0,0 1,0 -30 M60,55 a15,15 0,1 0,0 -30"/>
+
+    </group>
+
+</vector>

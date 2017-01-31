@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <objectAnimator
+        android:duration="500"
+        android:propertyName="pathData"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:valueType="pathType"
+        android:valueTo= "M45,55  a15,15 0,0 1,0 -30 M45,55 l0,0 0,0 0,0 M45,55  a15,15 0,1 0,0 -30,
+                          M45,55  a15,15 0,0 1,0 -30 M45,55 a15,15 0,1 0,0 -30,
+                          M45,55  a15,15 0,0 1,0 -30 M45,55 a15,15 0,1 0,0 -30,
+                          M45,55  a15,15 0,0 1,0 -30 M45,55 a15,15 0,1 0,0 -30,
+                          M45,55  a15,15 0,0 1,0 -30 M45,55 a15,15 0,1 0,0 -30"
+
+        android:valueFrom="M45,55  a15,15 0,0 1,0 -30 M45,55 l0,0 0,0 0,0 M45,55  a15,15 0,1 0,0 -30,
+                           M75,55  a15,15 0,0 1,0 -30  M75,55  a15,15 0,1 0,0 -30,
+                           M105,55  a15,15 0,0 1,0 -30 M105,55 a15,15 0,1 0,0 -30,
+                           M135,55  a15,15 0,0 1,0 -30 M135,55 a15,15 0,1 0,0 -30,
+                           M165,55  a15,15 0,0 1,0 -30 M165,55 a15,15 0,1 0,0 -30"
+        />
+</set>

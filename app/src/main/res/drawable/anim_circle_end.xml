@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:drawable="@drawable/ic_circle">
+
+    <target
+        android:animation="@animator/end_circle1"
+        android:name="circle1"/>
+    <target
+        android:animation="@animator/end_circle2"
+        android:name="circle2"/>
+    <target
+        android:animation="@animator/end_circle3"
+        android:name="circle3"/>
+    <target
+        android:animation="@animator/end_circle4"
+        android:name="circle4"/>
+    <target
+        android:animation="@animator/end_circle5"
+        android:name="circle5"/>
+</animated-vector>
